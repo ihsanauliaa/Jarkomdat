@@ -1,7 +1,3 @@
-# Jarkomdat
-
-Repositori ini akan digunakan untuk pembuatan log mata kuliah pelajaran Jarkomdat. Log-log dapat diakses sesuai dengan nomor week.
-
 ## Week 1 - 16 September 2020 - Lesson Learned
 
 ### Home Network
@@ -94,7 +90,7 @@ Dua kabel tembaga yang dililit ke satu sama lain untuk menghindari interferensi
 
 ### Coaxial Cable
 
-Tipe kabel yang terdiri dari 4  bagian: centre core (tembaga), dielectric insulator, metallic shield, dan plastic jacket
+Tipe kabel yang terdiri dari 4 bagian: centre core (tembaga), dielectric insulator, metallic shield, dan plastic jacket
 
 ### Fibre Optic
 
