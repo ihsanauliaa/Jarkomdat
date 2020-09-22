@@ -1,6 +1,6 @@
 # Jarkomdat
 
-Repositori ini akan digunakan untuk pembuatan log mata kuliah pelajaran Jarkomdat. Log-log dapat diakses sesuai dengan nomor week.
+Repositori ini akan digunakan untuk pembuatan log mata kuliah pelajaran Jarkomdat. Log week yang sedang aktif dapat dibaca langsung di halaman ini atau di dalam folder week terkait. Log week yang telah dilewati dapat diakses di dalam folder week terkait.
 
 ## Week 1 - 16 September 2020 - Lesson Learned
 
