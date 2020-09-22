@@ -4,6 +4,8 @@ Repositori ini akan digunakan untuk pembuatan log mata kuliah pelajaran Jarkomda
 
 ## Week 1 - 16 September 2020 - Lesson Learned
 
+Link Google Docs: https://docs.google.com/document/d/1uhVsDkdkJbinbGfGvEaq_4llsPl35-n0jSpDa7jrz-M/edit?usp=sharing
+
 ### Home Network
 
 Jaringan yang menghubungkan berbagai perangkat consumer grade seperti smartphone, komputer dan laptop. Seringkali perangkat-perangkat tersebut terhubung melalui wifi yang terkoneksi ke internet yang disediakan oleh suatu ISP
