@@ -1,6 +1,6 @@
 # Jarkomdat
 
-## 16 September 2020 - Lesson Learned
+## Week 1 - 16 September 2020 - Lesson Learned
 
 ### Home Network
 
