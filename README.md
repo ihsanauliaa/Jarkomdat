@@ -1,5 +1,7 @@
 # Jarkomdat
 
+Repositori ini akan digunakan untuk pembuatan log mata kuliah pelajaran Jarkomdat. Urutan log akan bersifat descending (Week terbaru akan berada di paling atas)
+
 ## Week 1 - 16 September 2020 - Lesson Learned
 
 ### Home Network
