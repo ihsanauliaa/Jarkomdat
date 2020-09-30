@@ -1,4 +1,4 @@
-## Week 1 - 16 September 2020 - Lesson Learned
+## Week 1 - 23 September 2020 - Lesson Learned
 
 Link Google Docs: https://docs.google.com/document/d/1uhVsDkdkJbinbGfGvEaq_4llsPl35-n0jSpDa7jrz-M/edit?usp=sharing
 
